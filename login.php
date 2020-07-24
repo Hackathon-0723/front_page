@@ -69,12 +69,12 @@ if(isset($_POST['id']) && isset($_POST['password'])) {
     <link rel="stylesheet" type="text/css" href="./css/login.css"/>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <title>ログイン | Ote-AR/AI</title>
+    <title>ログイン | て AR/AI</title>
 </head>
 
 <body>
     <section class="page">
-        <div class="logo"><img src="./images/logo.png" alt="logo" /></div>
+        <a href='./index.html'> <div class="logo"><img src="./images/logo.png" alt="logo" /></div></a>
         <!--
         <div class="v14_2"></div><span class="v14_3">ログイン</span>
         <div class="v14_4"></div>
