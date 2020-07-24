@@ -28,7 +28,7 @@ body {
     top: 10px;
   }
   .logo img {
-    background: url("../images/logo.png");
+    background: url("./images/logo.png");
     max-width: 400px;
     width: 60%;
   }
@@ -47,7 +47,7 @@ body {
     width: 330px;
     height: 621px;
     /*background: url("../images/v6_4.png");*/
-    background: url("../images/v5_1.png");
+    background: url("../images/icon.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
